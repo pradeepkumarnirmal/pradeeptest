@@ -47,7 +47,7 @@ h3{page-break-after:avoid;}
 }
 .errmsg{color:#FF0000 !important;}
 img{ max-width:100%;}
-.main-bg{ background:url(http://caitzone.in/images/banner-new-bg.jpg) no-repeat 0 0 #eeeeee; background-size:100%  auto; padding:40px 0 0 0;}
+.main-bg{ background:url(#) no-repeat 0 0 #eeeeee; background-size:100%  auto; padding:40px 0 0 0;}
 .title1{ background:#474747; font-size:16px; color:#fff; padding:15px 15px 15px 50px; margin-right:40px; margin-left:40px;}
 .title-2{font-size:22px; padding:20px 15px; font-weight:600; }
 .title3{ padding:15px 0px 10px; font-size:18px; font-weight:500;}
