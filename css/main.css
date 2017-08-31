@@ -1,0 +1,78 @@
+html{color:#222;font-size:1em;line-height:1.4;}
+::-moz-selection{background:#b3d4fc;text-shadow:none;}
+::selection{background:#b3d4fc;text-shadow:none;}
+hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0;}
+audio,
+canvas,
+iframe,
+img,
+svg,
+video{vertical-align:middle;}
+fieldset{border:0;margin:0;padding:0;}
+textarea{resize:vertical;}
+.browserupgrade{margin:0.2em 0;background:#ccc;color:#000;padding:0.2em 0;}
+.hidden{display:none !important;}
+.visuallyhidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;}
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto;}
+.invisible{visibility:hidden;}
+.clearfix:before,
+.clearfix:after{content:" ";display:table;}
+.clearfix:after{clear:both;}
+@media only screen and (min-width:35em){}
+@media print,
+(-webkit-min-device-pixel-ratio:1.25),
+(min-resolution:1.25dppx),
+(min-resolution:120dpi){}
+@media print{*,
+*:before,
+*:after{background:transparent !important;color:#000 !important;box-shadow:none !important;text-shadow:none !important;}
+a,
+a:visited{text-decoration:underline;}
+a[href]:after{content:" (" attr(href) ")";}
+abbr[title]:after{content:" (" attr(title) ")";}
+a[href^="#"]:after,
+a[href^="javascript:"]:after{content:"";}
+pre,
+blockquote{border:1px solid #999;page-break-inside:avoid;}
+thead{display:table-header-group;}
+tr,
+img{page-break-inside:avoid;}
+img{max-width:100% !important;}
+p,
+h2,
+h3{orphans:3;widows:3;}
+h2,
+h3{page-break-after:avoid;}
+}
+.errmsg{color:#FF0000 !important;}
+img{ max-width:100%;}
+.main-bg{ background:url(http://caitzone.in/images/banner-new-bg.jpg) no-repeat 0 0 #eeeeee; background-size:100%  auto; padding:40px 0 0 0;}
+.title1{ background:#474747; font-size:16px; color:#fff; padding:15px 15px 15px 50px; margin-right:40px; margin-left:40px;}
+.title-2{font-size:22px; padding:20px 15px; font-weight:600; }
+.title3{ padding:15px 0px 10px; font-size:18px; font-weight:500;}
+.title4{font-size:24px; padding:25px 25px 0px; font-weight:400;}
+.title3 p{ margin:0px 0 2px;}
+.white-bg{ background:#fff; margin-right:40px; margin-left:40px; margin-bottom:50px; }
+.gry-bg{ background:#f8f8f8;}
+
+.pt50{ padding-top:50px;}
+.media-img{ margin-bottom:15px; clear:both;}
+.p15{ padding:0 25px;}
+.w25{ width:25%; display:table-cell; vertical-align:middle;}
+.fs14{ font-size:13px;}
+
+.main-bg1{ background:url(http://caitzone.in/images/back.jpg) no-repeat 0 0 #eeeeee; background-size:100%  auto; padding:40px 0 0 0;}
+.title1{ background:#474747; font-size:16px; color:#fff; padding:15px 15px 15px 50px; margin-right:40px; margin-left:40px;}
+.title-2{font-size:22px; padding:20px 15px; font-weight:600; }
+.title3{ padding:15px 0px 10px; font-size:18px; font-weight:500;}
+.title4{font-size:24px; padding:25px 25px 0px; font-weight:400;}
+.title3 p{ margin:0px 0 2px;}
+.white-bg1{ background:#fff; margin-right:100px; margin-left:100px; margin-bottom:50px; }
+.gry-bg{ background:#f8f8f8;}
+
+.pt50{ padding-top:50px;}
+.media-img{ margin-bottom:15px; clear:both;}
+.p15{ padding:0 25px;}
+.w25{ width:25%; display:table-cell; vertical-align:middle;}
+.fs14{ font-size:13px;}

@@ -1,0 +1,33 @@
+#menu1{color:#333;border-color:#8c8c8c;}
+#menu1:hover{color:#333;border-color:#8c8c8c;border-bottom:none;}
+body{padding-right:0px !important;}
+body.modal-open{overflow:hidden;}
+.modal-open .modal{ }
+.footerfrn{width:80px;line-height:22px !important;padding:0px;margin:10px 0px 0px 0px;}
+.footerfrn:hover{color:#fff !important;}
+.suggestionsBox9{position:absolute;left:-2px;top:2px;height:312px;overflow-y:scroll;margin:34px 0px 0px 0px;width:447px;padding:0px;background-color:#fff;border-top:3px solid #ccc;color:#353535;z-index:99999;height:80px;}
+.secre{float:right;margin-right:5px;}
+.secre img{background:#fff;}
+.suggestionList9 ul li{list-style:none;color:#7B7B7B;margin:0px;padding:6px;text-align:left;font-size:12px;border-bottom:1px dotted #666;cursor:pointer;}
+.suggestionList9 ul li:hover{text-decoration:underline;color:#7B7B7B;font-size:12px;}
+#productModal .modal-dialog{max-width:74%;}
+.suggestionList190{position:absolute;left:0px;top:34px;height:150px;overflow-y:auto;padding:0px;background-color:#fff;border-top:1px solid #ccc;color:#353535;z-index:99999;margin:46px 115px 31px 0px;width:87%;overflow-x:inherit;}
+.suggestionList190 ul li{list-style:none;color:#7B7B7B;margin:0px;padding:6px;text-align:left;font-size:12px;border-bottom:1px dotted #666;cursor:pointer;}
+.suggestionList190 ul li:hover{text-decoration:none;color:#fff;font-size:12px;background:#26acce;}
+.bulformcss .col-xs-12{margin-bottom:10px;}
+body.modal-open{overflow:visible;}
+.menu1stinline{position:absolute;z-index:9;}
+.fststmenulist{float:left;width:200px;margin-right:10px;padding-right:10px;}
+.fstmenulista{margin-right:10px;padding-right:10px;float:left;width:200px;}
+.fstmenulistaicon{font-size:16px;padding:0px 1px;}
+.sndmenulist{float:left;width:200px;line-height:23px !important;font-weight:normal !important;margin-right:10px !important;padding-right:10px !important;padding:0px !important;margin:0px;}
+.sndmenulistspan{margin-right:10px;padding-right:10px;float:left;width:200px;}
+.sndmenubanner{width:150px;position:absolute;right:10px;}
+.cust-dropdown-menu{left:5px;width:194px;padding:5px 0px 5px 5px;}
+.cust-dropdown-menu li{color:#000;font-size:12px;}
+#list1{margin-top:5px;}
+.text-orange{color:#bf8606; text-align:left;}
+.text-xs-left{text-align:left;}
+.useraccounttop{float:right;padding-right: 0;width:auto;line-height:26px;border-left:1px solid #ddd;padding-left:7px;}
+.cust-myaccountlogin li a{font-size:14px !important;color:#333 !important;line-height:22px !important;}
+.cust-myaccountlogin{right:0px;left:inherit;}
